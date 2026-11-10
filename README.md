@@ -1,6 +1,6 @@
-# Tareas de Inteligencia Artificial - Visión y Redes Neuronales
+# Tareas de Inteligencia Artificial
 
-Este repositorio contiene el desarrollo y las soluciones para las tareas de la asignatura de **Inteligencia Artificial**, enfocadas en procesamiento de imágenes y clasificación mediante redes neuronales convolucionales.
+Este repositorio contiene el desarrollo y las soluciones para las tareas de la asignatura de **Inteligencia Artificial**
 
 ---
 
