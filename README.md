@@ -14,7 +14,6 @@ Este repositorio contiene el desarrollo y las soluciones para las tareas de la a
 │       └── ejemplo.jpg                       # Imagen de prueba
 ├── tarea_2/
 │   ├── Tarea_2_Caltech101.ipynb              # Notebook con entrenamiento de las 3 redes y matrices de confusión
-│   ├── train_models.py                       # Script Python de entrenamiento ejecutable
 │   ├── graficas/                             # Matrices de confusión y comparativas (.png)
 │   └── modelos/                              # Pesos entrenados de los modelos (.pth)
 ├── datos/                                    # 10 clases seleccionadas de Caltech-101 (2,998 imágenes)
