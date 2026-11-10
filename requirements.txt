@@ -1,0 +1,22 @@
+# Librerías esenciales para Tarea 1 y Tarea 2
+
+# Procesamiento de imágenes y visión por computadora (Tarea 1)
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Aprendizaje profundo y modelos (Tarea 2)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Manipulación de matrices y métricas
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualización y gráficos (Matrices de confusión y canales)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Entorno de Notebooks (Opcional si usas VS Code o JupyterLab)
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
